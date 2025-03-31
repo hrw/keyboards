@@ -18,5 +18,7 @@ As simple as possible:
 
 ### Photos
 
+Capslock key is mapped as Fn.
+
 ![alicja](/alicja/images/2025-03-31.jpg)
 ![bottom](/alicja/images/prototype-bottom.jpg)
