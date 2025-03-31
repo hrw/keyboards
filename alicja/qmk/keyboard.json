@@ -4,6 +4,7 @@
     "maintainer": "hrw",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
+    "url": "https://github.com/hrw/keyboards/tree/main/alicja",
     "features": {
         "bootmagic": true,
         "command": true,
@@ -41,7 +42,6 @@
         ]
     },
     "processor": "RP2040",
-    "url": "",
     "usb": {
         "vid": "0xF100",
         "pid": "0xAD78",
