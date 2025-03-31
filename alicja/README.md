@@ -8,6 +8,8 @@ Then I took his keyboard and modified into what I call Alicja (Alice in Polish).
 
 ## First prototype
 
+[Blog: "I built my first mechanical keyboard"](https://marcin.juszkiewicz.com.pl/2025/03/09/i-built-my-first-mechanical-keyboard/)
+
 As simple as possible:
 - 3d printed switch plate (two pieces mounted with each other)
 - no PCB, no case
