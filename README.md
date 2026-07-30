@@ -6,7 +6,12 @@ Yet another fork of fork of fork with Alice like layout.
 
 [Blog post](https://marcin.juszkiewicz.com.pl/2025/03/09/i-built-my-first-mechanical-keyboard/)
 
-Handwired, two encoders, UltimatePico as MCU, QMK with VIA.
+Keyboard features:
+
+- Handwired
+- two encoders
+- UltimatePico as MCU
+- QMK with VIA.
 
 Built only one copy. Dead keyboard, dead project.
 
@@ -15,6 +20,14 @@ Built only one copy. Dead keyboard, dead project.
 
 [Blog post](https://marcin.juszkiewicz.com.pl/2026/07/29/new-keyboard-alicja-v2/)
 
-PCB, hotswap, encoder, 5-way switch, stabilisers, RP2040 Stamp as MCU, QMK with
-VIA.
+Keyboard features:
+
+- PCB
+- hotswap
+- encoder
+- 5-way switch
+- stabilisers
+- RP2040 Stamp as MCU
+- QMK with VIA
+- connector with spare GPIO lines and power
 
