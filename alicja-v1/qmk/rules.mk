@@ -1,0 +1,3 @@
+ENABLE_VIA = yes
+
+CAPS_WORD_ENABLE = yes
